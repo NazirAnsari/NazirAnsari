@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
+<h1 align="center">Hi 👋, I'm Nazir Ansari</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
 
 - 🌱 I’m currently learning **Node.js**
 
-- 📫 How to reach me **itsshivamsharma21@gmail.com**
+- 📫 How to reach me **naziransari989@gmail.com**
 
 - ⚡ Fun fact **I love to play cricket**
 
