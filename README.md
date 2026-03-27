@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
 
-- 🌱 **Looking for Opportunities, ex - SDE @Bitlyze | Frontend developer | Full stack developer | Reactjs | Nextjs | SSR | SSG | ISR | Nodejs | Rest API | Mongodb | Nodejs | Firebase | Open Source Contributor **
+- 🌱 **Looking for Opportunities, ex - SDE @Bitlyze | Frontend developer | Full stack developer | Reactjs | Nextjs | SSR | SSG | ISR | Nodejs | Rest API | Mongodb | Nodejs | Firebase | Open Source Contributor**
 
 - 📫 How to reach me **naziransari989@gmail.com**
 
